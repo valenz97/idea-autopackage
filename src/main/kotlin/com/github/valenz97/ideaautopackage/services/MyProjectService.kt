@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.valenz97.ideaautopackage.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.valenz97.ideaautopackage.MyBundle
 
 class MyProjectService(project: Project) {
 
